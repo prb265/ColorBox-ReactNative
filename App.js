@@ -22,16 +22,17 @@ const styles = StyleSheet.create({
         marginBottom: 20,
     },
     inp: {
+        textAlignVertical:"center",
         width: "80%",
         height: 40,
-        fontSize: 15,
+        fontSize: 10,
         textAlign: "center",
         borderBlockColor: "black",
         borderWidth: 1,
         borderRadius: 5
     },
     head: {
-        fontSize: 22,
+        fontSize: 20,
         color: "red",
         marginBottom: 20
     }
